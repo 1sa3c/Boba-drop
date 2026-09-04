@@ -1,0 +1,9 @@
+body{
+    background-color:blueviolet;
+    text-align: center;
+    .image{
+        border: 20px solid #ce0be7;
+        border-radius: 15%;
+    }
+}
+]
